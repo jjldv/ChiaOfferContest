@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "gif-frames": "^1.0.1",
+    "gifencoder": "^2.0.1",
+    "sharp": "^0.33.2"
+  }
+}
