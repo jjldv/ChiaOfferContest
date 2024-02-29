@@ -14,12 +14,11 @@ This repository contains the code for encoding Chia offers using `EncodeChiaOffe
         ```bash
         node EncodeChiaOffer.js <outputFilename> <textToEncode>
         ```
-
 3. Decode Chia offers from GIF files:
-        - Run the script using Python:
-            ```bash
-            python ChiaOfferGifDecode.py <file_path>
-            ```
+    - Run the script using Python:
+        ```bash
+        python ChiaOfferGifDecode.py <file_path>
+        ```
 
 
 
